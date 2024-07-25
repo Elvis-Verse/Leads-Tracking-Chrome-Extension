@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads Keep",
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "storage"
+    ],
+    
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "debiXson_favicon.png"
+    }
+}

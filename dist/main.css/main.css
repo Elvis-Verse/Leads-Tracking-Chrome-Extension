@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+main {
+  margin-top: 2rem;
+  padding-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 3rem;
+}
+
+#input-el {
+  width: 100%;
+  height: 3rem;
+  border: 2px solid green;
+  color: black;
+  font-size: 1rem;
+}
+
+.buttons {
+  white-space: nowrap;
+}
+
+button {
+  display: inline;
+  width: 10rem;
+  height: 3rem;
+  margin-top: 0.5rem;
+  background-color: green;
+  color: white;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+li {
+  font-size: 2rem;
+  margin: 0.5rem;
+}/*# sourceMappingURL=main.css.map */
